@@ -11,6 +11,7 @@ UKP-Athene repository that we used for document retrieval: https://github.com/UK
 * Python 3.5.6
 * Pytorch 1.1.0
 * Pytorch-pretrained-bert  0.6.2 (HuggingFace BERT: https://github.com/huggingface/transformers)
+   * pip install pytorch-pretrained-bert==0.6.2
 * NLTK 3.4.1
 
 ### Initial Steps
