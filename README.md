@@ -1,6 +1,6 @@
 # BERT for Evidence Retrieval and Claim Verification
 
-## This is a repository for the code we used in "BERT for Evidence Retrieval and Claim Verification". The paper has been accepted in ECIR and would be published soon. Meanwhile, you can see the older version here: https://arxiv.org/abs/1910.02655
+## This is a repository for the code we used in "BERT for Evidence Retrieval and Claim Verification". The paper has been published in ECIR: https://link.springer.com/chapter/10.1007/978-3-030-45442-5_45
 
 This repository is still updating. Meanwhile, I've added the hyperparameters.
 
