@@ -59,7 +59,7 @@ You should get it from the Fever website and then use Athene's code or any other
 
 ### Claim Verification
 
-    python -u run_classifier_negativemining.py \
+    python -u run_classifier_negativemining.py (or run_classifier_ret)\
     --task_name Fever \
     --do_train \
     --do_eval \
