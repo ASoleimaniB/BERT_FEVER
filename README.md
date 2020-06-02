@@ -34,7 +34,6 @@ UKP-Athene repository that we used for document retrieval: https://github.com/UK
     --num_train_epochs 1.0 \
     --output_dir /dir
     
-
     
     python -u run_classifier_sentence_retrieval_pairs.py \
     --task_name Fever \
@@ -50,6 +49,13 @@ UKP-Athene repository that we used for document retrieval: https://github.com/UK
     --num_train_epochs 1.0 \
     --output_dir /dir
 
+
+###Data
+You need the following datasets to train and perform validation but due to copyright issues we cannot upload the dataset. 
+You should get it from the Fever website and then use Athene's code or any other document retrieval approach to get all the potential sentences in the retrieved documents.
+* train_sentences_pos.tsv : has all the positive pairs 
+* train_sentences_neg_32.tsv : has a number of negative samples 
+* dev_sentences.tsv : development set
 
 ### Claim Verification
 
