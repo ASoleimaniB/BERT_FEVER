@@ -75,3 +75,6 @@ You should get it from the Fever website and then use Athene's code or any other
 
 ### Contacts
 If you have any questions or problems regarding the code, please don't hesitate to email me {a.soleimani}@uva.nl
+
+### Suggestion
+Pytorch-pretrained-bert has been updated and we see many changes that make it nicer! So I highly suggest to get the idea and simply implement that using the latest HuggingFace's code.
