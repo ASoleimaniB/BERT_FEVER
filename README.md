@@ -1,8 +1,7 @@
 # BERT for Evidence Retrieval and Claim Verification
 
-## This is a repository for the code we used in "BERT for Evidence Retrieval and Claim Verification". The paper has been published in ECIR: https://link.springer.com/chapter/10.1007/978-3-030-45442-5_45
+## This is a repository for the code we used in "BERT for Evidence Retrieval and Claim Verification". The paper has been published in ECIR2020: https://link.springer.com/chapter/10.1007/978-3-030-45442-5_45
 
-This repository is still updating. Meanwhile, I've added the hyperparameters.
 
 The original Fever dataset repository: https://github.com/sheffieldnlp/fever-naacl-2018
 UKP-Athene repository that we used for document retrieval: https://github.com/UKPLab/fever-2018-team-athene
