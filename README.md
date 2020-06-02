@@ -50,7 +50,7 @@ UKP-Athene repository that we used for document retrieval: https://github.com/UK
     --output_dir /dir
 
 
-###Data
+### Data
 You need the following datasets to train and perform validation but due to copyright issues we cannot upload the dataset. 
 You should get it from the Fever website and then use Athene's code or any other document retrieval approach to get all the potential sentences in the retrieved documents.
 * train_sentences_pos.tsv : has all the positive pairs 
